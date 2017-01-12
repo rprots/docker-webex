@@ -6,6 +6,7 @@ How to run?
 ```bash
 git clone https://github.com/rprots/docker-webex.git
 cd docker-webex
+git pull
 ./webex.sh
 ```
 

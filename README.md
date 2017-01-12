@@ -1,6 +1,17 @@
 docker-webex
 ============
 
+How to run?
+-----------
+```bash
+git clone https://github.com/rprots/docker-webex.git
+cd docker-webex
+./webex.sh
+```
+
+About
+-----
+
 Run Cisco WebEx [1] inside docker.
 
 To use it simply clone this repository and run the **webex.sh** script.<br/>
